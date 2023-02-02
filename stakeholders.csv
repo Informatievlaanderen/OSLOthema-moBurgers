@@ -1,4 +1,10 @@
-Voornaam;Naam;Affiliatie;E-mail;Website;MijnKolom;
-AuteurVoornaam;AuteurNaam;AuteurAffiliatie;auteurvoornaam.auteurnaam@auteurdomein;https://auteurwebsiteurl;A;
-EditorVoornaam;EditorNaam;EditorAffiliatie;editorvoornaam.editornaam@editordomein;https://editorwebsiteurl;E;
-MedewerkerVoornaam;MedewerkerNaam;MedewerkerAffiliatie;medewerkervoornaam.medewerkernaam@medewerkerdomein;https://medewerkerwebsiteurl;C;
+Voornaam;Naam;Affiliatie;E-mail;Website;MijnKolom
+Wim;Michiels;Anyways;wim@anyways.eu;https://auteurwebsiteurl;C
+Yannick;Fabbro;Stad Hasselt;yannick.fabbro@hasselt.be;https://editorwebsiteurl;C
+Eli;Nomes;Stad Leuven;eli.nomes@leuven.be;https://medewerkerwebsiteurl;C
+Bea;Cleeren;Stad Hasselt;bea.cleeren@hasselt.be;;C
+Yaron;Dassonneville;PwC;yaron.dassonneville@pwc.com;;E
+Jef;Liekens;PwC;jef.liekens@pwc.com;;E
+Niels ;Kelchtermans;MyCSM;;;
+Erika ;Verstrepen;Departement Mobiliteit & Openbare Werken:;;;
+Pierre ;Steenberghen;Groepering Taxi ondernemingen:;;;
