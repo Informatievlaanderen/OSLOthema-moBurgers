@@ -1,19 +1,34 @@
 {
-    "naam": "",
+    "naam": "Applicatieprofiel Mobiliteitsbudget ",
     "rapport" : "",
     "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
     "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
     "publicatiedatum": "",
     "type_toepassing": "",
-    "categorie": "",
+    "categorie": "Applicatieprofiel",
     "beschrijving" : "",
-    "specificatiedocument": [],
-    "documentatie": [],
-    "charter": [],
+    "specificatiedocument": [
+    {
+      "naam": "Applicatieprofiel Mobiliteitsbudget",
+      "waarde": "link"
+    }
+    ],
+    "documentatie": [
+      {
+        "naam": "Modificatie Mobiliteitsbudget - datum",
+        "waarde": "link"
+      }
+    ],
+    "charter": [
+      {
+        "naam": "Charter",
+        "waarde": "link"
+      }
+    ],
     "verslagen": [],
     "presentaties": [],
-    "functioneel_toepassingsgebied": "",
-    "organisatorisch_werkingsgebied": "",
+    "functioneel_toepassingsgebied": "Semantische standaard voor informatie over Mobiliteitsbudget",
+    "organisatorisch_werkingsgebied": "Alle entiteiten van de Vlaamse Overheid",
     "datum_van_aanmelding": "",
     "erkenning_werkgroep_datastandaarden": "",
     "erkenning_stuurgroep": ""
