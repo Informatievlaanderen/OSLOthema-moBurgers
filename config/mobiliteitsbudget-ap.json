@@ -3,7 +3,7 @@
   "name": "mobiliteitsbudget-ap",
   "type": "ap",
   "eap": "OSLO-Mobiliteitsbudget-AP.eap",
-  "diagram": "Mobiliteitsbudget",
+  "diagram": "OSLO-Mobiliteitsbudget",
   "template": "mobiliteitsbudget-ap.j2",
   "title": "OSLO Mobiliteitsbudget",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
