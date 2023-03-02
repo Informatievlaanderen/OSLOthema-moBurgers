@@ -1,10 +1,10 @@
-Voornaam;Naam;Affiliatie;E-mail;Website;MijnKolom
-Wim;Michiels;Anyways;;;C
-Yannick;Fabbro;Stad Hasselt;;;C
-Eli;Nomes;Stad Leuven;;;C
-Bea;Cleeren;Stad Hasselt;;;C
-Yaron;Dassonneville;Digitaal Vlaanderen;yaron.dassonneville@pwc.com;;E
-Jef;Liekens;PwC;jef.liekens@pwc.com;;E
-Niels;Kelchtermans;MyCSM;;;C
-Erika;Verstrepen;Departement Mobiliteit & Openbare Werken;;;C
-Pierre;Steenberghen;Groepering Taxi ondernemingen;;;C
+Voornaam;Naam;Affiliatie;E-mail;Website;MijnKolom;
+Wim;Michiels;Anyways;;;C;
+Yannick;Fabbro;Stad Hasselt;;;C;
+Eli;Nomes;Stad Leuven;;;C;
+Bea;Cleeren;Stad Hasselt;;;C;
+Yaron;Dassonneville;Digitaal Vlaanderen;yaron.dassonneville@pwc.com;;E;
+Jef;Liekens;PwC;jef.liekens@pwc.com;;E;
+Niels;Kelchtermans;MyCSM;;;C;
+Erika;Verstrepen;Departement Mobiliteit & Openbare Werken;;;C;
+Pierre;Steenberghen;Groepering Taxi ondernemingen;;;C;
