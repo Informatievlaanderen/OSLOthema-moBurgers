@@ -2,7 +2,7 @@
 {
   "name": "mobiliteitsbudget",
   "type": "voc",
-  "eap": "OSLO-Mobiliteitsbudget-VOC.eap",
+  "eap": "OSLO-Mobiliteitsbudget-AP.eap",
   "diagram": "OSLO-Mobiliteitsbudget",
   "template": "mobiliteitsbudget-voc.j2",
   "title": "Mobiliteitsbudget",
