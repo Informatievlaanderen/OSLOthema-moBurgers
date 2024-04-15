@@ -10,11 +10,11 @@
     "specificatiedocument": [
     {
       "naam": "Applicatieprofiel Mobiliteitsbudget",
-      "waarde": "https://test.data.vlaanderen.be/doc/applicatieprofiel/mobiliteitsbudget/"
+      "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/mobiliteitsbudget/"
     },
     {
       "naam": "Vocabularium Mobiliteitsbudget",
-      "waarde": "https://test.data.vlaanderen.be/ns/mobiliteitsbudget/"
+      "waarde": "https://data.vlaanderen.be/ns/mobiliteitsbudget/"
     }
     ],
     "documentatie": [
