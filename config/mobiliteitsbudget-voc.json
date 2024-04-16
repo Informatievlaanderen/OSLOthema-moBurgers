@@ -2,10 +2,10 @@
 {
   "name": "mobiliteitsbudget",
   "type": "voc",
-  "eap": "OSLO-Mobiliteitsbudget-AP.eap",
+  "eap": "OSLO-Mobiliteitsbudget-AP-and-VOC.eap",
   "diagram": "OSLO-Mobiliteitsbudget",
   "template": "mobiliteitsbudget-voc.j2",
-  "title": "Mobiliteitsbudget",
+  "title": "Vocabularium Mobiliteitsbudget",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
   "publication-date": "2023-01-16",
   "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
