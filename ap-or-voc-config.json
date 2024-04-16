@@ -3,8 +3,8 @@
     "rapport" : "",
     "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
     "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
-    "publicatiedatum": "10/11/2022",
-    "type_toepassing": "",
+    "publicatiedatum": "2022-11-10",
+    "type_toepassing": "Aanbevolen (vrijwillig)",
     "categorie": "Applicatieprofiel",
     "beschrijving" : "template-descriptions.md",
     "specificatiedocument": [
@@ -55,7 +55,7 @@
     ],
     "functioneel_toepassingsgebied": "Semantische standaard voor informatie over Mobiliteitsbudget",
     "organisatorisch_werkingsgebied": "Alle entiteiten van de Vlaamse Overheid",
-    "datum_van_aanmelding": "10/11/2022",
+    "datum_van_aanmelding": "10 november 2022",
     "erkenning_werkgroep_datastandaarden": "",
     "erkenning_stuurgroep": ""
   }
