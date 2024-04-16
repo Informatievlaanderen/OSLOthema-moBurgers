@@ -3,7 +3,7 @@
     "rapport" : "",
     "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
     "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
-    "publicatiedatum": "",
+    "publicatiedatum": "10/11/2022",
     "type_toepassing": "",
     "categorie": "Applicatieprofiel",
     "beschrijving" : "",
@@ -19,35 +19,43 @@
     ],
     "documentatie": [
       {
-        "naam": "Modificatie Mobiliteitsbudget - datum",
-        "waarde": "link"
+        "naam": "",
+        "waarde": ""
       }
     ],
     "charter": [
       {
         "naam": "Charter",
-        "waarde": "link"
+        "waarde": "charter-OSLO-Mobiliteitsbudget.pdf"
       }
     ],
     "verslagen": [
       {
-        "naam": "Verslag business werkgroep 7 december 2022 ",
+        "naam": "Verslag business werkgroep - 7 december 2022 ",
         "waarde": "Verslag Business Workshop Mobiliteitsbudget.docx.pdf",
+      },
+      {
         "naam": "Verslag Thematische Werkgroep 1 - 11 januari 2023",
         "waarde": "11012023_OSLO Mobiliteitsbudget_Thematische Werkgroep 1_Verslag.pdf"
+      },
+      {
+        "naam": "Verslag Thematische Werkgroep 2 - 8 februari 2023",
+        "waarde": "08022023-Verslag-Thematische-Werkgroep-2-OSLO-Mobiliteitsbudget.pdf"
       }
     ],
     "presentaties": [
       {
-        "naam": "Presentatie business werkgroep 7 december 2023",
+        "naam": "Presentatie business werkgroep - 7 december 2022",
         "waarde": "07122022-Business Werkgroep presentatie - MOBURGER.pptx.pdf",
-        "naam": "Presentatie Thematische Werkgroep 1 - 11 januari 2023",
-        "waarde": "11012023_OSLO Mobiliteitsbudget_Thematische Werkgroep 1_Presentatie.pdf"
+      },
+      {
+        "naam": "Presentatie thematische werkgroep - 11 januari 2023 ",
+        "waarde": "11012023_OSLO Mobiliteitsbudget_Thematische Werkgroep 1_Verslag.pdf",
       }
     ],
     "functioneel_toepassingsgebied": "Semantische standaard voor informatie over Mobiliteitsbudget",
     "organisatorisch_werkingsgebied": "Alle entiteiten van de Vlaamse Overheid",
-    "datum_van_aanmelding": "",
+    "datum_van_aanmelding": "10/11/2022",
     "erkenning_werkgroep_datastandaarden": "",
     "erkenning_stuurgroep": ""
   }
