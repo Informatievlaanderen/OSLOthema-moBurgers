@@ -21,7 +21,7 @@
     ],
     "charter": [
       {
-        "naam": "Charter",
+        "naam": "Charter Mobiliteitsbudget",
         "waarde": "charter-OSLO-Mobiliteitsbudget.pdf"
       }
     ],
@@ -45,13 +45,13 @@
         "waarde": "07122022-Business Werkgroep presentatie - MOBURGER.pptx.pdf"
       },
       {
-        "naam": "Presentatie thematische werkgroep - 11 januari 2023 ",
+        "naam": "Presentatie thematische werkgroep 1 - 11 januari 2023 ",
         "waarde": "11012023_OSLO Mobiliteitsbudget_Thematische Werkgroep 1_Verslag.pdf"
       }
     ],
     "functioneel_toepassingsgebied": "Semantische standaard voor informatie over Mobiliteitsbudget",
     "organisatorisch_werkingsgebied": "Alle entiteiten van de Vlaamse Overheid",
     "datum_van_aanmelding": "10 november 2022",
-    "erkenning_werkgroep_datastandaarden": "",
-    "erkenning_stuurgroep": ""
+    "erkenning_werkgroep_datastandaarden": "TBD",
+    "erkenning_stuurgroep": "TBD"
   }
