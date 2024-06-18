@@ -2,7 +2,7 @@
   "title": "Vocabularium Mobiliteitsbudget",
   "category": "Vocabularium",
   "usage": "Aanbevolen (vrijwillig)",
-  "status": "standaard-in-ontwikkeling",
+  "status": "kandidaat-standaard",
   "descriptionFileName": "voc-mobiliteitsbudget-description.md",
   "responsibleOrganisation": [
     {
@@ -59,6 +59,6 @@
   "dateOfAcknowledgementByWorkingGroup": "TBD",
   "dateOfAcknowledgementBySteeringCommittee": "TBD",
   "repository": "OSLOthema-moBurgers",
-  "datePublicReviewStart": "",
+  "datePublicReviewStart": "2024-06-18",
   "endOfPublicationDate": ""
 }
