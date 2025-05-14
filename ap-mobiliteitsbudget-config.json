@@ -2,7 +2,7 @@
   "title": "Applicatieprofiel Mobiliteitsbudget",
   "category": "Applicatieprofiel",
   "usage": "Aanbevolen (vrijwillig)",
-  "status": "erkende-standaard",
+  "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
   "descriptionFileName": "ap-mobiliteitsbudget-description.md",
   "responsibleOrganisation": [
     {
